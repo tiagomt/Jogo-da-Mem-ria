@@ -2,5 +2,9 @@
 
     width: 400px;
     height: 300px;
+    display: flex;
+    /* definindo qy=ue haverá quebra de linha */
+    flex-wrap: wrap;
+
 
 }
